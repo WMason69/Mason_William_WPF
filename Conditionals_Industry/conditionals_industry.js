@@ -8,12 +8,12 @@ in a given week */
 
 var  memberOneGroupA = prompt("How many jobs did member one of Group A " +
 				"complete this week?");
-console.log("Member one of Group A completed " + memberOneGroupA + " jobs" +
+console.log("Member One of Group A completed " + memberOneGroupA + " jobs" +
 				" this week.");
 
 var  memberTwoGroupA = prompt("How many jobs did member two of Group A " +
 				"complete this week?");
-console.log("Member two of Group A completed " + memberTwoGroupA + " jobs" +
+console.log("Member Two of Group A completed " + memberTwoGroupA + " jobs" +
 				" this week.");
 
 var  memberThreeGroupA = prompt("How many jobs did member three of Group A " +
@@ -25,3 +25,26 @@ var totalJobsGroupA = Number(memberOneGroupA) + Number(memberTwoGroupA) +
 				Number(memberThreeGroupA);
 console.log("The total number of jobs completed this week by Group A " +
 				"members is " + totalJobsGroupA + ".");
+
+/* Establish variable prompts for number of jobs completed in a 1 week
+ period by three members of Group B */
+
+var  memberOneGroupB = prompt("How many jobs did member one of Group B " +
+				"complete this week?");
+console.log("Member One of Group B completed " + memberOneGroupB + " jobs" +
+				" this week.");
+
+var  memberTwoGroupB = prompt("How many jobs did member two of Group B " +
+				"complete this week?");
+console.log("Member Two of Group B completed " + memberTwoGroupB + " jobs" +
+				" this week.");
+
+var  memberThreeGroupB = prompt("How many jobs did member three of Group A " +
+				"complete this week?");
+console.log("Member Three of Group B completed " + memberThreeGroupB + " jobs" +
+				" this week.");
+
+var totalJobsGroupB = Number(memberOneGroupB) + Number(memberTwoGroupB) +
+				Number(memberThreeGroupB);
+console.log("The total number of jobs completed this week by Group B " +
+				"members is " + totalJobsGroupB + ".");
