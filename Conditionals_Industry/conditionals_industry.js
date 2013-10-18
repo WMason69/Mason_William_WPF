@@ -85,7 +85,8 @@ alert("The total number of jobs completed this week by Group C " +
 than group B or vice versa */
 
 if(totalJobsGroupA > totalJobsGroupB){
-				    console.log ("Group A worked harder than Group B")
+				    console.log ("Group A worked harder than Group B");
+								alert("Group A worked harder than Group B");
 }else{
 				console.log("Group B worked harder than Group A");
 				alert("Group B worked harder than Group A");
@@ -95,8 +96,15 @@ if(totalJobsGroupA > totalJobsGroupB){
  than group B or vice versa */
 
 if(totalJobsGroupC > totalJobsGroupB){
-				console.log ("Group C worked harder than Group B")
+				console.log ("Group C worked harder than Group B");
+				alert("Group C worked harder than Group B");
 }else{
 				console.log("Group B worked harder than Group C");
-				alert("Group C worked harder than Group B");
+				alert("Group B worked harder than Group C");
 }
+/*using a the logical operator && in a ternary expression to compare
+ two Boolean statements */
+
+(totalJobsGroupA > totalJobsGroupB && totalJobsGroupC > totalJobsGroupB)
+				? console.log("Both Group A and Group C outworked Group B")
+				: console.log("Group B worked harder than we thought");
