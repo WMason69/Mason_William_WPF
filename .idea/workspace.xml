@@ -2,28 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" name="Default" comment="Moved all Previous WPF Files here (Treat like an archive)">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Conditionals_Industry/conditionals_industry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Conditionals_Industry/index_conditionals_industry.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Conditionals_Personal/conditionals_personal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Conditionals_Personal/index_conditionals_personal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Conditionals_Wacky/conditionals_wacky.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Conditionals_Wacky/index_conditionals_wacky.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Expressions_Industry/expressions_industry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Expressions_Industry/index_expressions_industry.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Expressions_Personal/expressions_personal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Expressions_Personal/index_expressions_personal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Expressions_Wacky/expressions_wacky.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Expressions_Wacky/index_expressions_wacky.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flowchart Assignment/MasonWilliam_WPF Flowchart .pdf" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AssociatingJS/index.html" afterPath="$PROJECT_DIR$/AssociatingJS/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expressions_industry/exp_industry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expressions_personal/exp_personal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expressions_wacky/exp_wacky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expressions_industry/expressions_industry.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expressions_personal/expressions_personal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expressions_wacky/expressions_wacky.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AssociatingJS/js/script.js" afterPath="$PROJECT_DIR$/AssociatingJS/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Mason_William_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383643691368" ignored="false" />
+    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383876163995" ignored="false" />
     <file path="/index.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383643970324" ignored="false" />
-    <file path="/script.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383643914393" ignored="false" />
+    <file path="/script.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383817610695" ignored="false" />
     <file path="/a.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1378979584287" ignored="false" />
     <file path="/wacky.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1379648753032" ignored="false" />
     <file path="/industry.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1379649053534" ignored="false" />
@@ -39,6 +31,10 @@
     <file path="/conditionals_wacky.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1382057490892" ignored="false" />
     <file path="/conditionals_industry.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1382064582307" ignored="false" />
     <file path="/conditionals_personal.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1382579494737" ignored="false" />
+    <file path="/expressions_industry.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383876634683" ignored="false" />
+    <file path="/exp_industry.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383876839302" ignored="false" />
+    <file path="/expressions_personal.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383877012802" ignored="false" />
+    <file path="/expressions_wacky.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383877166866" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,22 +54,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AssociatingJS/index.html">
+      <file leaf-file-name="exp_personal.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Expressions_personal/exp_personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="41" selection-start="135" selection-end="135" vertical-scroll-proportion="0.20579268">
+            <state line="3" column="34" selection-start="93" selection-end="93" vertical-scroll-proportion="0.066176474">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="expressions_personal.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Expressions_personal/expressions_personal.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="34" selection-start="84" selection-end="84" vertical-scroll-proportion="-2.5">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AssociatingJS/js/script.js">
+      <file leaf-file-name="exp_wacky.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Expressions_wacky/exp_wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="64" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0">
+            <state line="3" column="40" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="expressions_wacky.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Expressions_wacky/expressions_wacky.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="40" selection-start="90" selection-end="90" vertical-scroll-proportion="-2.5">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -104,13 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Expressions Wacky/expressions_wacky.js" />
-        <option value="$PROJECT_DIR$/Expressions Industrial/index_expressions_industrial.html" />
-        <option value="$PROJECT_DIR$/Expressions Industrial/expressions_industrial.js" />
-        <option value="$PROJECT_DIR$/Expressions Industry/index_expressions_industry.html" />
-        <option value="$PROJECT_DIR$/Expressions Industry/expressions_industry.js" />
-        <option value="$PROJECT_DIR$/Expressions_Personal/expressions_personal.js" />
-        <option value="$PROJECT_DIR$/Expressions_Industry/expressions_industry.js" />
         <option value="$PROJECT_DIR$/Expressions_Wacky/expressions_wacky.js" />
         <option value="$PROJECT_DIR$/Conditionals_Industry/index_conditionals_industry.html" />
         <option value="$PROJECT_DIR$/Conditionals_Personal/index_conditionals_personal.html" />
@@ -118,8 +127,15 @@
         <option value="$PROJECT_DIR$/Conditionals_Wacky/conditionals_wacky.js" />
         <option value="$PROJECT_DIR$/Conditionals_Industry/conditionals_industry.js" />
         <option value="$PROJECT_DIR$/Conditionals_Personal/conditionals_personal.js" />
-        <option value="$PROJECT_DIR$/AssociatingJS/js/script.js" />
         <option value="$PROJECT_DIR$/AssociatingJS/index.html" />
+        <option value="$PROJECT_DIR$/AssociatingJS/js/script.js" />
+        <option value="$PROJECT_DIR$/Expressions_industry/expressions_personal.html" />
+        <option value="$PROJECT_DIR$/Expressions_industry/expressions_industry.html" />
+        <option value="$PROJECT_DIR$/Expressions_industry/exp_industry.js" />
+        <option value="$PROJECT_DIR$/Expressions_personal/expressions_personal.html" />
+        <option value="$PROJECT_DIR$/Expressions_wacky/exp_wacky.js" />
+        <option value="$PROJECT_DIR$/Expressions_wacky/expressions_wacky.html" />
+        <option value="$PROJECT_DIR$/Expressions_personal/exp_personal.js" />
       </list>
     </option>
   </component>
@@ -173,20 +189,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mason_William_WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mason_William_WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AssociatingJS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -196,7 +198,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="reference.settings.ide.settings.web.browsers" />
+    <property name="options.lastSelected" value="preferences.updates" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
@@ -204,10 +206,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig" serverName="Github.com" serverId="ff360737-05c4-46ec-9758-755cbc0e28a2" deleteMissingItems="true" uploadOnCheckin="d5e91b77-ed88-4bb9-a75b-b26900b743e2">
     <servers>
@@ -242,6 +244,7 @@
       <recent name="$PROJECT_DIR$/Flowchart Assignment" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Expressions_personal" />
       <recent name="$PROJECT_DIR$/Previous WPF Class - J Dalton" />
       <recent name="$PROJECT_DIR$/AssociatingJS" />
       <recent name="$PROJECT_DIR$/Flowchart" />
@@ -263,6 +266,10 @@
       <setting name="preferredDebugBrowser" value="CHROME" />
       <method />
     </configuration>
+    <configuration default="true" type="NodeJSRemoteDebug" factoryName="Node.js Remote Debug">
+      <node-js-remote-debug />
+      <method />
+    </configuration>
     <configuration default="true" type="NodeunitConfigurationType" factoryName="Nodeunit">
       <setting name="nodePath" value="" />
       <envs />
@@ -273,8 +280,7 @@
       <setting name="jsFile" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="NodeJSRemoteDebug" factoryName="Node.js Remote Debug">
-      <node-js-remote-debug />
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="XSLT" factoryName="XSLT">
@@ -291,9 +297,6 @@
       <OutputType value="CONSOLE" save-to-file="false" />
       <FileType name="XML" />
       <JdkChoice value="FROM_MODULE" />
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
@@ -562,6 +565,20 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AssociatingJS/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="64" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssociatingJS/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="41" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AssociatingJS/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -572,9 +589,7 @@
     <entry file="file://$PROJECT_DIR$/AssociatingJS/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -600,17 +615,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AssociatingJS/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="64" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0">
+        <state line="3" column="0" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssociatingJS/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="6" selection-start="29" selection-end="29" vertical-scroll-proportion="-1.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions_industry/expressions_industry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="41" selection-start="91" selection-end="91" vertical-scroll-proportion="-2.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions_industry/exp_industry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="6" selection-start="0" selection-end="94" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions_wacky/expressions_wacky.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="40" selection-start="90" selection-end="90" vertical-scroll-proportion="-2.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions_wacky/exp_wacky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="40" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AssociatingJS/index.html">
+    <entry file="file://$PROJECT_DIR$/Expressions_personal/expressions_personal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="41" selection-start="135" selection-end="135" vertical-scroll-proportion="0.20579268">
+        <state line="4" column="34" selection-start="84" selection-end="84" vertical-scroll-proportion="-2.5">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions_personal/exp_personal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="34" selection-start="93" selection-end="93" vertical-scroll-proportion="0.066176474">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
