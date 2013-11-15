@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" name="Default" comment="conditional statement testing whether we earned more from Client B or Client C">
+    <list default="true" id="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_industry/conditionals_industry.js" afterPath="$PROJECT_DIR$/Conditionals_industry/conditionals_industry.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Mason_William_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384485902554" ignored="false" />
+    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384485946014" ignored="false" />
     <file path="/index.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383643970324" ignored="false" />
     <file path="/script.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383817610695" ignored="false" />
     <file path="/a.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1378979584287" ignored="false" />
@@ -23,7 +23,7 @@
     <file path="/index_conditionals_personal.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1382001042393" ignored="false" />
     <file path="/index_conditionals_wacky.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1382001169741" ignored="false" />
     <file path="/conditionals_wacky.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384476890016" ignored="false" />
-    <file path="/conditionals_industry.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384485798707" ignored="false" />
+    <file path="/conditionals_industry.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384486413497" ignored="false" />
     <file path="/conditionals_personal.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384476720651" ignored="false" />
     <file path="/expressions_industry.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383876634683" ignored="false" />
     <file path="/exp_industry.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383876839302" ignored="false" />
@@ -54,7 +54,7 @@
       <file leaf-file-name="conditionals_industry.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals_industry/conditionals_industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="1" selection-start="3485" selection-end="3485" vertical-scroll-proportion="0.86577183">
+            <state line="75" column="12" selection-start="3490" selection-end="3587" vertical-scroll-proportion="0.66442955">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -500,7 +500,11 @@
       <created>1384485677871</created>
       <updated>1384485677871</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="conditional statement testing whether we earned more from Client B or Client C">
+      <created>1384485951334</created>
+      <updated>1384485951334</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers>
       <GitHub shared="false">
         <commitMessageFormat>{id} {summary}</commitMessageFormat>
@@ -724,7 +728,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_industry/conditionals_industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="1" selection-start="3485" selection-end="3485" vertical-scroll-proportion="0.86577183">
+        <state line="75" column="12" selection-start="3490" selection-end="3587" vertical-scroll-proportion="0.66442955">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

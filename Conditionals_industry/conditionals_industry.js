@@ -72,3 +72,12 @@ if(totEarnedClientB > totEarnedClientC){
 } else{
 				console.log("Client C was more profitable than Client B")
 }
+
+/*Tertiary statement comparing two statements and resolving both to boolean values for
+for comparison*/
+
+if(totEarnedClientA > totEarnedClientB && totEarnedClientB > totEarnedClientC){
+		console.log("Client A was more profitable to our firm than either Clients B or C")
+}else{
+				console.log("Client C was more profitable to our firm than we thought")
+}
