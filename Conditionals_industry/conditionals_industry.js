@@ -49,4 +49,10 @@ console.log("Our firm earned a total of " + "$" + totEarnedClientA + " from Clie
 var totEarnedClientB=clientB * avgJobCostClientB;
 
 //print out to console total earnings received from Client B this year
-console.log("Our firm earned a total of " + "$" + totEarnedClientB + " from Client B this year.")
+console.log("Our firm earned a total of " + "$" + totEarnedClientB + " from Client B this year.");
+
+//established variable and created expression to calculate total cost earned from client C
+var totEarnedClientC=clientC * avgJobCostClientC;
+
+//print out to console total earnings received from Client C this year
+console.log("Our firm earned a total of " + "$" + totEarnedClientC + " from Client C this year.");

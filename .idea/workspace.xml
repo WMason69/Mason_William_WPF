@@ -7,7 +7,7 @@
     </list>
     <ignored path="Mason_William_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384483909251" ignored="false" />
+    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384484275099" ignored="false" />
     <file path="/index.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383643970324" ignored="false" />
     <file path="/script.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383817610695" ignored="false" />
     <file path="/a.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1378979584287" ignored="false" />
@@ -23,7 +23,7 @@
     <file path="/index_conditionals_personal.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1382001042393" ignored="false" />
     <file path="/index_conditionals_wacky.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1382001169741" ignored="false" />
     <file path="/conditionals_wacky.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384476890016" ignored="false" />
-    <file path="/conditionals_industry.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384484163849" ignored="false" />
+    <file path="/conditionals_industry.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384484441573" ignored="false" />
     <file path="/conditionals_personal.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384476720651" ignored="false" />
     <file path="/expressions_industry.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383876634683" ignored="false" />
     <file path="/exp_industry.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383876839302" ignored="false" />
@@ -54,7 +54,7 @@
       <file leaf-file-name="conditionals_industry.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals_industry/conditionals_industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="53" selection-start="2472" selection-end="2472" vertical-scroll-proportion="0.6979866">
+            <state line="57" column="98" selection-start="2956" selection-end="2956" vertical-scroll-proportion="0.8322148">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -488,7 +488,11 @@
       <created>1384483917325</created>
       <updated>1384483917325</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="print out to console total earnings received from Client B this year">
+      <created>1384484281210</created>
+      <updated>1384484281210</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers>
       <GitHub shared="false">
         <commitMessageFormat>{id} {summary}</commitMessageFormat>
@@ -573,7 +577,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="print out to console total earnings received from Client A this year" />
+    <option name="LAST_COMMIT_MESSAGE" value="print out to console total earnings received from Client B this year" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -587,7 +591,6 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="Linking script.js and index.html files together" />
     <MESSAGE value="Setup of specific Expressions Assignment Project folders along with js and html files." />
     <MESSAGE value="Preparing to establish Group A variables" />
     <MESSAGE value="Preparing file structure for Conditionals Assignment" />
@@ -612,6 +615,7 @@
     <MESSAGE value="print out user prompted input for variable avgJobCostClient C" />
     <MESSAGE value="established variable and created expression to calculate total cost earned from client A" />
     <MESSAGE value="print out to console total earnings received from Client A this year" />
+    <MESSAGE value="print out to console total earnings received from Client B this year" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -712,7 +716,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_industry/conditionals_industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="53" selection-start="2472" selection-end="2472" vertical-scroll-proportion="0.6979866">
+        <state line="57" column="98" selection-start="2956" selection-end="2956" vertical-scroll-proportion="0.8322148">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
