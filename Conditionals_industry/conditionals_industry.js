@@ -56,3 +56,11 @@ var totEarnedClientC=clientC * avgJobCostClientC;
 
 //print out to console total earnings received from Client C this year
 console.log("Our firm earned a total of " + "$" + totEarnedClientC + " from Client C this year.");
+
+/*conditional statement testing whether we earned more from Client A or
+Client B*/
+if(totEarnedClientA > totEarnedClientB){
+				console.log("We earned more from Client A than from Client B")
+} else{
+				console.log("Client B was more profitable than Client A")
+}
