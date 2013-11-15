@@ -24,6 +24,8 @@ console.log("We completed " + clientC + " jobs for Client C over the past" +
 //define and declare amount of average  dollar cost per job for client A
 var avgJobCostClientA=prompt("Please enter the per job cost for \n " +
 				" Client A projects");
+console.log("We charged " + "$" + avgJobCostClientA + " per project for Client A.") ;
+
 //define and declare amount of average  dollar cost per job for client B
 var avgJobCostClientB=prompt("Please enter the per job cost for \n " +
 				" Client B projects");
