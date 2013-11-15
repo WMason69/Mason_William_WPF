@@ -17,3 +17,6 @@ var clientB=prompt("Please enter How many jobs we did for Client B in \n" +
 // print out user input for clientB prompt to console
 console.log("We completed " + clientB + " jobs for Client B over the past" +
 				" year.");
+//declaring and defining variable for Client C
+var clientC=prompt("Please enter How many jobs we did for Client C in \n" +
+				"a one year period");
