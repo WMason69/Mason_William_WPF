@@ -31,4 +31,10 @@ console.log("We charged " + "$" + avgJobCostClientA + " per project for Client A
 var avgJobCostClientB=prompt("Please enter the per job cost for" +
 				" Client B projects");
 //print out user prompted input for variable avgJobCostClient B
-console.log("We charged " + "$" + avgJobCostClientB + " per project for Client A.");
+console.log("We charged " + "$" + avgJobCostClientB + " per project for Client B.");
+
+//define and declare amount of average  dollar cost per job for client C
+var avgJobCostClientC=prompt("Please enter the per job cost for" +
+				" Client C projects");
+//print out user prompted input for variable avgJobCostClient C
+console.log("We charged " + "$" + avgJobCostClientC + " per project for Client C.");
