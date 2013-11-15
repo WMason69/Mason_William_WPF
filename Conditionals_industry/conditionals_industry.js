@@ -1,9 +1,7 @@
 /*Conditionals Assignment_Industry_ William Mason_ Date: 11/13/13 */
 
-alert("Conditionals Industry!");
-
 /* Write code that determines which client produced the most money for
-				my web design firm in a one year period*/
+				our web design firm in a one year period*/
 
 //declaring and defining variable for Client A
 var clientA=prompt("Please enter How many jobs we did for Client A in \n" +
@@ -21,5 +19,8 @@ console.log("We completed " + clientB + " jobs for Client B over the past" +
 var clientC=prompt("Please enter How many jobs we did for Client C in \n" +
 				"a one year period");
 // print out user input for clientC prompt to console
-console.log("We completed " + clientCB + " jobs for Client C over the past" +
+console.log("We completed " + clientC + " jobs for Client C over the past" +
 				" year.");
+//define and declare amount of average  dollar cost per job for client A
+var avgJobCostClientA=prompt("Please enter the per job cost for \n " +
+				" Client A projects");
