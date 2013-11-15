@@ -44,3 +44,9 @@ var totEarnedClientA=clientA * avgJobCostClientA;
 
 //print out to console total earnings received from Client A this year
 console.log("Our firm earned a total of " + "$" + totEarnedClientA + " from Client A this year.");
+
+//established variable and created expression to calculate total cost earned from client B
+var totEarnedClientB=clientB * avgJobCostClientB;
+
+//print out to console total earnings received from Client B this year
+console.log("Our firm earned a total of " + "$" + totEarnedClientB + " from Client B this year.")
