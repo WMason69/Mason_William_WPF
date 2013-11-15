@@ -64,3 +64,11 @@ if(totEarnedClientA > totEarnedClientB){
 } else{
 				console.log("Client B was more profitable than Client A")
 }
+
+/*conditional statement testing whether we earned more from Client B or
+ Client C*/
+if(totEarnedClientB > totEarnedClientC){
+				console.log("We earned more from Client B than from Client C")
+} else{
+				console.log("Client C was more profitable than Client B")
+}
