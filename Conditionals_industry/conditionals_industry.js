@@ -38,3 +38,6 @@ var avgJobCostClientC=prompt("Please enter the per job cost for" +
 				" Client C projects");
 //print out user prompted input for variable avgJobCostClient C
 console.log("We charged " + "$" + avgJobCostClientC + " per project for Client C.");
+
+//established variable and created expression to calculate total cost earned from client A
+var totEarnedClientA=clientA * avgJobCostClientA;
