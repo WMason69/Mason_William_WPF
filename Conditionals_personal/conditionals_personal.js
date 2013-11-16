@@ -16,4 +16,9 @@ alert("The noodles and sauce portion size is " + nooSauSize + "oz.");
 a prompt function*/
 var numMeatballsPortion = prompt("Please enter the number of meatballs \n" +
 				" that you use for each portion size of noodles and sauce.");
-
+/*print out user entered information to console and give feedback to user
+using the alert function*/
+console.log("The number of meatballs that you use for each portion \n" +
+				" size of noodles and sauce is " + numMeatballsPortion + ".");
+alert("The number of meatballs that you use for each portion \n" +
+				" size of noodles and sauce is " + numMeatballsPortion + ".");
