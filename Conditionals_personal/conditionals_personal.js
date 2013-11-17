@@ -13,26 +13,34 @@ var nooSauSize = prompt("Please enter the noodles and sauce meal size \n" +
 console.log("The noodles and sauce meal size is " + nooSauSize + " oz.");
 alert("The noodles and sauce meal size is " + nooSauSize + " oz.");
 
-/*declare variable for number of meatballs that is user defined through
-a prompt function*/
-var numMeatballsPortion = prompt("Please enter the number of meatballs that you will\n" +
-				" use for each " + nooSauSize + " oz." +  " of noodles and sauce.");
+/*declare variable and define as an expression that calculates number of
+ portions in a meal size*/
+
+var avgPortSize = prompt("Please enter the average portion size in oz.");
+console.log("The average portion size is " + avgPortSize + " oz.");
+
+/*declare variable and define using an expression for number of meatballs
+that will be used for various meal sizes*/
+var numMeatballsPortion = nooSauSize/avgPortSize*2;
+console.log("The number of meatballs that you will use for each " + nooSauSize +
+				" oz. portion of noodles and sauce is " + numMeatballsPortion + ".");
 
 /*print out user entered information to console and give feedback to user
 using the alert function*/
-console.log("The number of meatballs that you will use for each " + nooSauSize +
-				" oz." + " of noodles and sauce is " + numMeatballsPortion + ".");
 alert("The number of meatballs that you will use for each " + nooSauSize + " oz."  +
 				" of noodles and sauce is " + numMeatballsPortion + ".");
 
-/*declare variable and define as an expression that calculates number of
-portions in a meal size*/
-
-var avgPortSize = Number("4");
-console.log("The average portion size is " + avgPortSize + " oz.");
-
 //define variables for large and small meal sizes using expressions
-var largeMeal = nooSauSize*avgPortSize >= Number(80 + " oz.");
-var smallMeal = nooSauSize/avgPortSize <= Number(3 + " oz.");
+var largeMeal = nooSauSize/avgPortSize >= 10;
+var smallMeal = nooSauSize/avgPortSize <= 3;
 
+// conditional statement to declare size of meal
+if(largeMeal){
+				console.log("We ate a very large meal.");
+}else if(smallMeal){
+								console.log("We ate a small meal which means we did not eat much.");
+}else{
+								console.log("Our family ate an average size meal.")
+}
 
+// ------------------- End of Personal Assignment ----------------
