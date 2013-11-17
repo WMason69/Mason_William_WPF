@@ -31,5 +31,8 @@ portions in a meal size*/
 var avgPortSize = Number("4");
 console.log("The average portion size is " + avgPortSize + " oz.");
 
+//define variables for large and small meal sizes using expressions
+var largeMeal = nooSauSize*avgPortSize >= Number(80 + " oz.");
+var smallMeal = nooSauSize/avgPortSize <= Number(3 + " oz.");
 
 
