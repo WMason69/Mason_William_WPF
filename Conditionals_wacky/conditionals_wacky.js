@@ -25,3 +25,15 @@ console.log("The weight of Green Elephant #2 is " + greenEl2 + " pounds.");
 
 //This code prints out user feedback for data input using the alert function
 alert("The weight of Green Elephant #2 is " + greenEl2 + " pounds.");
+
+/*this code declares and defines variable about green elephant #3
+ weight using a prompt*/
+
+var greenEl3 = prompt("Please enter the weight of Green Elephant #3 in \n" +
+				"pounds.");
+//This code prints out user input data to console
+console.log("The weight of Green Elephant #3 is " + greenEl3 + " pounds.");
+
+//This code prints out user feedback for data input using the alert function
+alert("The weight of Green Elephant #3 is " + greenEl3 + " pounds.");
+
