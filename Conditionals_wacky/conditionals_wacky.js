@@ -47,3 +47,19 @@ console.log("The weight of Green Elephant #4 is " + greenEl4 + " pounds.");
 
 //This code prints out user feedback for data input using the alert function
 alert("The weight of Green Elephant #4 is " + greenEl4 + " pounds.");
+
+/*This code defines and declares number of eating hours in a day using a
+prompt*/
+
+var eatHoursDay = prompt("Please enter the numbers of hours the elephants \n" +
+				" spend eating per day.");
+
+/*This code prints to the console the user input number of hours the elephants
+spend eating per day*/
+console.log("The number of hours the elephants spend eating each day is " +
+				eatHoursDay + ".");
+
+/*This code alerts the user to the number of hours the elephants spend eating
+ per day*/
+alert("The number of hours the elephants spend eating each day is " +
+				eatHoursDay + ".");
