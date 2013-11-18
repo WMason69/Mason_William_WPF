@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" name="Default" comment="">
+    <list default="true" id="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" name="Default" comment="/*this code declares and defines variable about green elephant #1&#10; weight using a prompt&#10;  */">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_wacky/conditionals_wacky.js" afterPath="$PROJECT_DIR$/Conditionals_wacky/conditionals_wacky.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Mason_William_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384768117601" ignored="false" />
+    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384769195738" ignored="false" />
     <file path="/index.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383643970324" ignored="false" />
     <file path="/script.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383817610695" ignored="false" />
     <file path="/a.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1378979584287" ignored="false" />
@@ -63,7 +63,7 @@
       <file leaf-file-name="conditionals_wacky.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals_wacky/conditionals_wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="69" selection-start="696" selection-end="696" vertical-scroll-proportion="0.57174885">
+            <state line="17" column="6" selection-start="607" selection-end="693" vertical-scroll-proportion="0.57174885">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -558,7 +558,11 @@
       <created>1384768121890</created>
       <updated>1384768121890</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Define and declare variable for Green Elephant #1">
+      <created>1384769002634</created>
+      <updated>1384769002634</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers>
       <GitHub shared="false">
         <commitMessageFormat>{id} {summary}</commitMessageFormat>
@@ -643,7 +647,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lay out purpose of program and first comment on structure setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Define and declare variable for Green Elephant #1" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -657,7 +661,6 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="declared and defined variable for client B and printed out prompt inputs for clients A &amp; B" />
     <MESSAGE value="declared and defined variable for client C" />
     <MESSAGE value="print out user input for clientC prompt to console" />
     <MESSAGE value="define and declare amount of average  dollar cost per job for client" />
@@ -682,6 +685,7 @@
     <MESSAGE value="conditional statement to declare size of meal" />
     <MESSAGE value="Comment end of Conditionals Personal Assignment" />
     <MESSAGE value="Lay out purpose of program and first comment on structure setup" />
+    <MESSAGE value="Define and declare variable for Green Elephant #1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -766,7 +770,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_wacky/conditionals_wacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="69" selection-start="696" selection-end="696" vertical-scroll-proportion="0.57174885">
+        <state line="17" column="6" selection-start="607" selection-end="693" vertical-scroll-proportion="0.57174885">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
