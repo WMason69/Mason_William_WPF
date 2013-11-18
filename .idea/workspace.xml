@@ -7,7 +7,7 @@
     </list>
     <ignored path="Mason_William_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384769243667" ignored="false" />
+    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384769462714" ignored="false" />
     <file path="/index.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383643970324" ignored="false" />
     <file path="/script.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383817610695" ignored="false" />
     <file path="/a.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1378979584287" ignored="false" />
@@ -63,7 +63,7 @@
       <file leaf-file-name="conditionals_wacky.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals_wacky/conditionals_wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="70" selection-start="1523" selection-end="1523" vertical-scroll-proportion="0.8654708">
+            <state line="42" column="67" selection-start="1684" selection-end="1684" vertical-scroll-proportion="0.59641254">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -566,7 +566,11 @@
       <created>1384769258816</created>
       <updated>1384769258816</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="this code declares and defines variable about green elephant #3 weight using a prompt">
+      <created>1384769465606</created>
+      <updated>1384769465606</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers>
       <GitHub shared="false">
         <commitMessageFormat>{id} {summary}</commitMessageFormat>
@@ -651,7 +655,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="this code declares and defines variable about green elephant #2 weight using a prompt" />
+    <option name="LAST_COMMIT_MESSAGE" value="this code declares and defines variable about green elephant #3 weight using a prompt" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -665,7 +669,6 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="print out user input for clientC prompt to console" />
     <MESSAGE value="define and declare amount of average  dollar cost per job for client" />
     <MESSAGE value="define and declare amount of average  dollar cost per job for client B" />
     <MESSAGE value="define and declare amount of average  dollar cost per job for client B using user input" />
@@ -690,6 +693,7 @@
     <MESSAGE value="Lay out purpose of program and first comment on structure setup" />
     <MESSAGE value="Define and declare variable for Green Elephant #1" />
     <MESSAGE value="this code declares and defines variable about green elephant #2 weight using a prompt" />
+    <MESSAGE value="this code declares and defines variable about green elephant #3 weight using a prompt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -774,7 +778,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_wacky/conditionals_wacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="70" selection-start="1523" selection-end="1523" vertical-scroll-proportion="0.8654708">
+        <state line="42" column="67" selection-start="1684" selection-end="1684" vertical-scroll-proportion="0.59641254">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
