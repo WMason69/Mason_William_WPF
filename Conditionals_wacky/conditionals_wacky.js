@@ -5,7 +5,7 @@
 
 // -------------------- Begin Program -------------------------
 
-
+var unitWeight = 1000;
 
 var greenEl1 = prompt("Please enter the weight of Green Elephant #1 in \n" +
 				"pounds.");
@@ -63,3 +63,15 @@ console.log("The number of hours the elephants spend eating each day is " +
  per day*/
 alert("The number of hours the elephants spend eating each day is " +
 				eatHoursDay + ".");
+
+/*declare and define variable using an expression for gummy bears eaten
+per hour per 1000 pounds of elephant*/
+
+gumEatPerHrPerThPound = unitWeight/4;
+console.log("Each elephant eats " + gumEatPerHrPerThPound + " gummy bears " +
+				"per hour" + " for every " + unitWeight + " lbs of weight.");
+
+/*This code alerts the user to the number of gummy bears eaten
+ per hour per 1000 pounds of elephant*/
+alert("Each elephant eats " + gumEatPerHrPerThPound + " gummy bears " +
+				"per hour" + " for every " + unitWeight + " lbs of weight.");
