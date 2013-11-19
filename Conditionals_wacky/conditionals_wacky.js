@@ -75,3 +75,16 @@ console.log("Each elephant eats " + gumEatPerHrPerThPound + " gummy bears " +
  per hour per 1000 pounds of elephant*/
 alert("Each elephant eats " + gumEatPerHrPerThPound + " gummy bears " +
 				"per hour" + " for every " + unitWeight + " lbs of weight.");
+
+/*------ Code that calculates how many gummy bears each elephant ate
+				during the course of a day ---------------------------*/
+
+//calculate gummy bear consumption total for green elephant 1/
+var totalGreenEl1GumAte = greenEl1 / unitWeight / gumEatPerHrPerThPound
+				* eatHoursDay;
+//print expression result to console
+console.log("The total number of gummy bears eaten by green elephant #1 \n" +
+				" in a day is " + totalGreenEl1GumAte + ".");
+//give user feedback
+console.log("The total number of gummy bears eaten by green elephant #1 \n" +
+				" in a day is " + totalGreenEl1GumAte + ".");
