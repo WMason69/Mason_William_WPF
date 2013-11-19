@@ -7,7 +7,7 @@
     </list>
     <ignored path="Mason_William_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384820086407" ignored="false" />
+    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384821303445" ignored="false" />
     <file path="/index.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383643970324" ignored="false" />
     <file path="/script.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383817610695" ignored="false" />
     <file path="/a.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1378979584287" ignored="false" />
@@ -22,7 +22,7 @@
     <file path="/index_conditionals_industry.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1382000740363" ignored="false" />
     <file path="/index_conditionals_personal.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1382001042393" ignored="false" />
     <file path="/index_conditionals_wacky.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1382001169741" ignored="false" />
-    <file path="/conditionals_wacky.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384821044058" ignored="false" />
+    <file path="/conditionals_wacky.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384821534019" ignored="false" />
     <file path="/conditionals_industry.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384486413497" ignored="false" />
     <file path="/conditionals_personal.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384725338188" ignored="false" />
     <file path="/expressions_industry.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383876634683" ignored="false" />
@@ -63,7 +63,7 @@
       <file leaf-file-name="conditionals_wacky.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals_wacky/conditionals_wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="89" column="49" selection-start="3724" selection-end="3724" vertical-scroll-proportion="0.89910316">
+            <state line="97" column="49" selection-start="4161" selection-end="4161" vertical-scroll-proportion="0.8654708">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -582,7 +582,11 @@
       <created>1384820104702</created>
       <updated>1384820104703</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Gummy bear consumption coding for green elephant #1">
+      <created>1384821311051</created>
+      <updated>1384821311051</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers>
       <GitHub shared="false">
         <commitMessageFormat>{id} {summary}</commitMessageFormat>
@@ -667,7 +671,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="This code alerts the user to the number of gummy bears eaten per hour per 1000 pounds of elephant" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gummy bear consumption coding for green elephant #1" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -681,7 +685,6 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="//print out user prompted input for variable avgJobCostClient B" />
     <MESSAGE value="print out user prompted input for variable avgJobCostClient C" />
     <MESSAGE value="established variable and created expression to calculate total cost earned from client A" />
     <MESSAGE value="print out to console total earnings received from Client A this year" />
@@ -706,6 +709,7 @@
     <MESSAGE value="this code declares and defines variable about green elephant #4 weight using a prompt" />
     <MESSAGE value="this code declares and defines variable about number of hours elephants spend eating gummy bears per day using a prompt" />
     <MESSAGE value="This code alerts the user to the number of gummy bears eaten per hour per 1000 pounds of elephant" />
+    <MESSAGE value="Gummy bear consumption coding for green elephant #1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -790,7 +794,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_wacky/conditionals_wacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="49" selection-start="3724" selection-end="3724" vertical-scroll-proportion="0.89910316">
+        <state line="97" column="49" selection-start="4161" selection-end="4161" vertical-scroll-proportion="0.8654708">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

@@ -80,11 +80,19 @@ alert("Each elephant eats " + gumEatPerHrPerThPound + " gummy bears " +
 				during the course of a day ---------------------------*/
 
 //calculate gummy bear consumption total for green elephant 1/
-var totalGreenEl1GumAte = greenEl1 / unitWeight / gumEatPerHrPerThPound
+var totalGreenEl1GumAte = greenEl1 / unitWeight * gumEatPerHrPerThPound
 				* eatHoursDay;
 //print expression result to console
-console.log("The total number of gummy bears eaten by green elephant #1 \n" +
-				" in a day is " + totalGreenEl1GumAte + ".");
+console.log("The total number of gummy bears eaten by green elephant #1" + " in a day is " + totalGreenEl1GumAte + ".");
 //give user feedback
-console.log("The total number of gummy bears eaten by green elephant #1 \n" +
+alert("The total number of gummy bears eaten by green elephant #1" +
 				" in a day is " + totalGreenEl1GumAte + ".");
+
+//calculate gummy bear consumption total for green elephant 2/
+var totalGreenEl2GumAte = greenEl2 / unitWeight * gumEatPerHrPerThPound
+				* eatHoursDay;
+//print expression result to console
+console.log("The total number of gummy bears eaten by green elephant #2" + " in a day is " + totalGreenEl2GumAte + ".");
+//give user feedback
+alert("The total number of gummy bears eaten by green elephant #2" +
+				" in a day is " + totalGreenEl2GumAte + ".");
