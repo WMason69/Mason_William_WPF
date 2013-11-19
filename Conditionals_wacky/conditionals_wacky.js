@@ -114,3 +114,12 @@ console.log("The total number of gummy bears eaten by green elephant #4" + " in 
 //give user feedback
 alert("The total number of gummy bears eaten by green elephant #4" +
 				" in a day is " + totalGreenEl4GumAte + ".");
+
+//Ternary statement/
+
+(totalGreenEl1GumAte > totalGreenEl2GumAte || totalGreenEl3GumAte > totalGreenEl4GumAte)
+				? console.log("The odd numbered green elephants ate more than the even numbered " +
+				"green elephants") : console.log("The odd numbered green elephants did not always eat" +
+				" more than the even numbered green elephants");
+
+//----------------End of Conditionals Wacky Assignment---------------//
