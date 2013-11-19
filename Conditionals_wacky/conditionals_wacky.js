@@ -96,3 +96,12 @@ console.log("The total number of gummy bears eaten by green elephant #2" + " in 
 //give user feedback
 alert("The total number of gummy bears eaten by green elephant #2" +
 				" in a day is " + totalGreenEl2GumAte + ".");
+
+//calculate gummy bear consumption total for green elephant 3/
+var totalGreenEl3GumAte = greenEl3 / unitWeight * gumEatPerHrPerThPound
+				* eatHoursDay;
+//print expression result to console
+console.log("The total number of gummy bears eaten by green elephant #3" + " in a day is " + totalGreenEl2GumAte + ".");
+//give user feedback
+alert("The total number of gummy bears eaten by green elephant #3" +
+				" in a day is " + totalGreenEl3GumAte + ".");
