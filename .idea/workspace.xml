@@ -7,7 +7,7 @@
     </list>
     <ignored path="Mason_William_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384825067776" ignored="false" />
+    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384827591786" ignored="false" />
     <file path="/index.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383643970324" ignored="false" />
     <file path="/script.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383817610695" ignored="false" />
     <file path="/a.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1378979584287" ignored="false" />
@@ -63,7 +63,7 @@
       <file leaf-file-name="conditionals_wacky.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals_wacky/conditionals_wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="125" column="0" selection-start="5487" selection-end="5487" vertical-scroll-proportion="0.8791946">
+            <state line="119" column="45" selection-start="5136" selection-end="5136" vertical-scroll-proportion="0.67785233">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -598,7 +598,11 @@
       <created>1384822972049</created>
       <updated>1384822972049</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Ternary statement representing a normal if else statement and the end of the Conditionals Wacky Assignment">
+      <created>1384825114968</created>
+      <updated>1384825114968</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers>
       <GitHub shared="false">
         <commitMessageFormat>{id} {summary}</commitMessageFormat>
@@ -683,7 +687,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ternary statement representing a normal if else statement and the end of the Conditionals Wacky Assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="refined ternary statement with AND Logical operator instead of OR Logical operator." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -697,7 +701,6 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="print out to console total earnings received from Client C this year" />
     <MESSAGE value="conditional statement testing whether we earned more from Client A or Client B" />
     <MESSAGE value="conditional statement testing whether we earned more from Client B or Client C" />
     <MESSAGE value="tertiary statement comparing two statements and resolving both to boolean values for comparison" />
@@ -722,6 +725,7 @@
     <MESSAGE value="Gummy bear consumption coding for green elephant #3" />
     <MESSAGE value="Gummy bear consumption coding for green elephant #4" />
     <MESSAGE value="Ternary statement representing a normal if else statement and the end of the Conditionals Wacky Assignment" />
+    <MESSAGE value="refined ternary statement with AND Logical operator instead of OR Logical operator." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -806,7 +810,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_wacky/conditionals_wacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="125" column="0" selection-start="5487" selection-end="5487" vertical-scroll-proportion="0.8791946">
+        <state line="119" column="45" selection-start="5136" selection-end="5136" vertical-scroll-proportion="0.67785233">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
