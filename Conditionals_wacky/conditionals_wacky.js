@@ -117,8 +117,9 @@ alert("The total number of gummy bears eaten by green elephant #4" +
 
 //Ternary statement/
 
+//condition to be evaluated/
 (totalGreenEl1GumAte > totalGreenEl2GumAte && totalGreenEl3GumAte > totalGreenEl4GumAte)
-				? console.log("The odd numbered green elephants ate more than the even numbered " +
+? console.log("The odd numbered green elephants ate more than the even numbered " +
 				"green elephants") : console.log("The odd numbered green elephants did not always eat" +
 				" more than the even numbered green elephants");
 
