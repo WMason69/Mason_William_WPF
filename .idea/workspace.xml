@@ -2,17 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions_industry/functions_industry.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions_personal/functions_personal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions_wacky/functions_wacky.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions_industry/industry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions_personal/personal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions_wacky/wacky.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Mason_William_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384941419008" ignored="false" />
+    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384941524500" ignored="false" />
     <file path="/index.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383643970324" ignored="false" />
     <file path="/script.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383817610695" ignored="false" />
     <file path="/a.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1378979584287" ignored="false" />
-    <file path="/wacky.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1379648753032" ignored="false" />
-    <file path="/industry.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1379649053534" ignored="false" />
-    <file path="/personal.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1379649312689" ignored="false" />
+    <file path="/wacky.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384942788976" ignored="false" />
+    <file path="/industry.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384942220751" ignored="false" />
+    <file path="/personal.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384942463593" ignored="false" />
     <file path="/expressionsindex.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1381424387491" ignored="false" />
     <file path="/expressionspersonal.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1381424219185" ignored="false" />
     <file path="/index_expressions_wacky.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1381424984505" ignored="false" />
@@ -33,6 +39,9 @@
     <file path="/conditionals_wacky.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384476960133" ignored="false" />
     <file path="/functions.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384941216232" ignored="false" />
     <file path="/functions_worksheet.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384941292763" ignored="false" />
+    <file path="/functions_industry.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384942287565" ignored="false" />
+    <file path="/functions_personal.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384942533153" ignored="false" />
+    <file path="/functions_wacky.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384942703619" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,22 +61,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="functions_worksheet.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Functions_worksheet/functions_worksheet.html">
+      <file leaf-file-name="functions_wacky.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Functions_wacky/functions_wacky.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="34" selection-start="84" selection-end="84" vertical-scroll-proportion="0.1421801">
+            <state line="4" column="27" selection-start="77" selection-end="77" vertical-scroll-proportion="0.1421801">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions_worksheet/functions.js">
+      <file leaf-file-name="wacky.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Functions_wacky/wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="30" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="2" column="39" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -99,13 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/AssociatingJS/js/script.js" />
-        <option value="$PROJECT_DIR$/Expressions_industry/expressions_personal.html" />
-        <option value="$PROJECT_DIR$/Expressions_industry/expressions_industry.html" />
-        <option value="$PROJECT_DIR$/Expressions_industry/exp_industry.js" />
-        <option value="$PROJECT_DIR$/Expressions_personal/expressions_personal.html" />
-        <option value="$PROJECT_DIR$/Expressions_wacky/exp_wacky.js" />
-        <option value="$PROJECT_DIR$/Expressions_wacky/expressions_wacky.html" />
         <option value="$PROJECT_DIR$/Expressions_personal/exp_personal.js" />
         <option value="$PROJECT_DIR$/Conditionals_industry/conditionals_industry.html" />
         <option value="$PROJECT_DIR$/Conditionals_personal/conditionals_personal.html" />
@@ -115,6 +115,13 @@
         <option value="$PROJECT_DIR$/Conditionals_wacky/conditionals_wacky.js" />
         <option value="$PROJECT_DIR$/Functions_worksheet/functions.js" />
         <option value="$PROJECT_DIR$/Functions_worksheet/functions_worksheet.html" />
+        <option value="$PROJECT_DIR$/Functions_industry/functions_personal.html" />
+        <option value="$PROJECT_DIR$/Functions_industry/industry.js" />
+        <option value="$PROJECT_DIR$/Functions_industry/functions_industry.html" />
+        <option value="$PROJECT_DIR$/Functions_personal/personal.js" />
+        <option value="$PROJECT_DIR$/Functions_personal/functions_personal.html" />
+        <option value="$PROJECT_DIR$/Functions_wacky/functions_wacky.html" />
+        <option value="$PROJECT_DIR$/Functions_wacky/wacky.js" />
       </list>
     </option>
   </component>
@@ -158,16 +165,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mason_William_WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mason_William_WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -177,7 +174,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="preferences.updates" />
+    <property name="options.lastSelected" value="fileTemplates" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
@@ -583,7 +580,11 @@
       <created>1384941425610</created>
       <updated>1384941425610</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="created function worksheet folder and file structure">
+      <created>1384941529712</created>
+      <updated>1384941529712</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers>
       <GitHub shared="false">
         <commitMessageFormat>{id} {summary}</commitMessageFormat>
@@ -601,14 +602,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1420" height="826" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3286119" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32627118" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33002833" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24982105" sideWeight="0.6713881" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29420185" sideWeight="0.6713881" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29420185" sideWeight="0.6713881" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286119" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -712,36 +713,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AssociatingJS/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AssociatingJS/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="6" selection-start="29" selection-end="29" vertical-scroll-proportion="-1.25" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions_wacky/expressions_wacky.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="40" selection-start="90" selection-end="90" vertical-scroll-proportion="-2.5" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions_personal/expressions_personal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="34" selection-start="84" selection-end="84" vertical-scroll-proportion="-2.5" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions_wacky/exp_wacky.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="40" selection-start="88" selection-end="88" vertical-scroll-proportion="0.10089686" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions_personal/exp_personal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="34" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_industry/expressions_industry.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="41" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0" />
@@ -779,15 +750,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_worksheet/functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="30" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_wacky/conditionals_wacky.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="120" column="0" selection-start="5120" selection-end="5120" vertical-scroll-proportion="1.1165919">
@@ -797,9 +759,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_worksheet/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="30" selection-start="91" selection-end="91" vertical-scroll-proportion="0.06726457">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Functions_worksheet/functions_worksheet.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="34" selection-start="84" selection-end="84" vertical-scroll-proportion="0.1421801">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_industry/industry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="42" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_industry/functions_industry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="30" selection-start="80" selection-end="80" vertical-scroll-proportion="0.1421801">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_personal/personal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="42" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_personal/functions_personal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="30" selection-start="80" selection-end="80" vertical-scroll-proportion="0.1421801">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_wacky/wacky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="39" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_wacky/functions_wacky.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="27" selection-start="77" selection-end="77" vertical-scroll-proportion="0.1421801">
           <folding />
         </state>
       </provider>
