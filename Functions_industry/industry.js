@@ -6,5 +6,9 @@
 //define named function with 3 parameters
 function vehicleMilage(vehicle1, vehicle2, vehicle3){
 
+//declare and define variable that holds number of vehicles
+var numVehicles = 3;
+
+
 }
 

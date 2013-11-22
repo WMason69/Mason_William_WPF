@@ -7,12 +7,12 @@
     </list>
     <ignored path="Mason_William_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385091491239" ignored="false" />
+    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385092051840" ignored="false" />
     <file path="/index.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383643970324" ignored="false" />
     <file path="/script.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383817610695" ignored="false" />
     <file path="/a.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1378979584287" ignored="false" />
     <file path="/wacky.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384942788976" ignored="false" />
-    <file path="/industry.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385091925769" ignored="false" />
+    <file path="/industry.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385092592865" ignored="false" />
     <file path="/personal.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384942463593" ignored="false" />
     <file path="/expressionsindex.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1381424387491" ignored="false" />
     <file path="/expressionspersonal.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1381424219185" ignored="false" />
@@ -69,7 +69,7 @@
       <file leaf-file-name="industry.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions_industry/industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="5" selection-start="148" selection-end="187" vertical-scroll-proportion="0.16816144">
+            <state line="11" column="1" selection-start="325" selection-end="325" vertical-scroll-proportion="0.36995515">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -639,7 +639,11 @@
       <created>1385091503356</created>
       <updated>1385091503357</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="define named function with 3 parameters">
+      <created>1385092061860</created>
+      <updated>1385092061860</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers>
       <GitHub shared="false">
         <commitMessageFormat>{id} {summary}</commitMessageFormat>
@@ -724,7 +728,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comment on code to figure out average mile per gallonr for three vehicles" />
+    <option name="LAST_COMMIT_MESSAGE" value="define named function with 3 parameters" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -738,7 +742,6 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="end of conditionals industry assignment" />
     <MESSAGE value="Comment on what I am about to calculate" />
     <MESSAGE value="declared and defined noodles and sauce variable and printed out result to console and alerted user." />
     <MESSAGE value="declare variable for number of meatballs that is user defined through a prompt function" />
@@ -763,6 +766,7 @@
     <MESSAGE value="created function worksheet folder and file structure" />
     <MESSAGE value="created function assignments folders and file structures" />
     <MESSAGE value="Comment on code to figure out average mile per gallonr for three vehicles" />
+    <MESSAGE value="define named function with 3 parameters" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -869,7 +873,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions_industry/industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="5" selection-start="148" selection-end="187" vertical-scroll-proportion="0.16816144">
+        <state line="11" column="1" selection-start="325" selection-end="325" vertical-scroll-proportion="0.36995515">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
