@@ -1,3 +1,5 @@
 /* William Mason, Functions Assignment - Industry, November 20, 2013 */
 
-alert("Functions Assignment - Industry!");
+
+//Code that calculate average miles per gallon between our three vehicles/
+

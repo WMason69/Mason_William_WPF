@@ -2,22 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions_industry/functions_industry.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions_personal/functions_personal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions_wacky/functions_wacky.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions_industry/industry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions_personal/personal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions_wacky/wacky.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions_industry/industry.js" afterPath="$PROJECT_DIR$/Functions_industry/industry.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Mason_William_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384941524500" ignored="false" />
+    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385028971517" ignored="false" />
     <file path="/index.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383643970324" ignored="false" />
     <file path="/script.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383817610695" ignored="false" />
     <file path="/a.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1378979584287" ignored="false" />
     <file path="/wacky.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384942788976" ignored="false" />
-    <file path="/industry.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384942220751" ignored="false" />
+    <file path="/industry.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385090168370" ignored="false" />
     <file path="/personal.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384942463593" ignored="false" />
     <file path="/expressionsindex.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1381424387491" ignored="false" />
     <file path="/expressionspersonal.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1381424219185" ignored="false" />
@@ -42,6 +37,7 @@
     <file path="/functions_industry.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384942287565" ignored="false" />
     <file path="/functions_personal.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384942533153" ignored="false" />
     <file path="/functions_wacky.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384942703619" ignored="false" />
+    <file path="/testing.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385091155817" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,20 +57,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="functions_wacky.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Functions_wacky/functions_wacky.html">
+      <file leaf-file-name="functions_industry.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Functions_industry/functions_industry.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="27" selection-start="77" selection-end="77" vertical-scroll-proportion="0.1421801">
+            <state line="1" column="116" selection-start="22" selection-end="22" vertical-scroll-proportion="-0.625">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wacky.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions_wacky/wacky.js">
+      <file leaf-file-name="industry.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Functions_industry/industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="39" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="3" column="26" selection-start="100" selection-end="100" vertical-scroll-proportion="0.066176474">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,22 +104,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Expressions_personal/exp_personal.js" />
-        <option value="$PROJECT_DIR$/Conditionals_industry/conditionals_industry.html" />
         <option value="$PROJECT_DIR$/Conditionals_personal/conditionals_personal.html" />
         <option value="$PROJECT_DIR$/Conditionals_wacky/conditionals_wacky.html" />
         <option value="$PROJECT_DIR$/Conditionals_industry/conditionals_industry.js" />
         <option value="$PROJECT_DIR$/Conditionals_personal/conditionals_personal.js" />
         <option value="$PROJECT_DIR$/Conditionals_wacky/conditionals_wacky.js" />
         <option value="$PROJECT_DIR$/Functions_worksheet/functions.js" />
-        <option value="$PROJECT_DIR$/Functions_worksheet/functions_worksheet.html" />
         <option value="$PROJECT_DIR$/Functions_industry/functions_personal.html" />
-        <option value="$PROJECT_DIR$/Functions_industry/industry.js" />
         <option value="$PROJECT_DIR$/Functions_industry/functions_industry.html" />
         <option value="$PROJECT_DIR$/Functions_personal/personal.js" />
         <option value="$PROJECT_DIR$/Functions_personal/functions_personal.html" />
         <option value="$PROJECT_DIR$/Functions_wacky/functions_wacky.html" />
         <option value="$PROJECT_DIR$/Functions_wacky/wacky.js" />
+        <option value="$PROJECT_DIR$/Functions_worksheet/functions_worksheet.html" />
+        <option value="$PROJECT_DIR$/Screencast &amp; Testing Code/testing.js" />
+        <option value="$PROJECT_DIR$/Screencast &amp; Testing Code/testing.html" />
+        <option value="$PROJECT_DIR$/Functions_industry/industry.js" />
       </list>
     </option>
   </component>
@@ -156,7 +154,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -165,8 +162,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mason_William_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mason_William_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mason_William_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mason_William_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Functions_industry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -584,7 +606,11 @@
       <created>1384941529712</created>
       <updated>1384941529712</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="created function assignments folders and file structures">
+      <created>1384942884095</created>
+      <updated>1384942884095</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers>
       <GitHub shared="false">
         <commitMessageFormat>{id} {summary}</commitMessageFormat>
@@ -602,24 +628,24 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1420" height="826" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3286119" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32627118" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33002833" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24982105" sideWeight="0.6713881" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29420185" sideWeight="0.6713881" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29420185" sideWeight="0.6713881" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286119" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32768363" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3286119" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32909605" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969433" sideWeight="0.674221" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32627118" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286119" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Duplicates" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286119" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -669,7 +695,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="created function worksheet folder and file structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="created function assignments folders and file structures" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -683,7 +709,6 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="conditional statement testing whether we earned more from Client B or Client C" />
     <MESSAGE value="tertiary statement comparing two statements and resolving both to boolean values for comparison" />
     <MESSAGE value="end of conditionals industry assignment" />
     <MESSAGE value="Comment on what I am about to calculate" />
@@ -708,36 +733,12 @@
     <MESSAGE value="Ternary statement representing a normal if else statement and the end of the Conditionals Wacky Assignment" />
     <MESSAGE value="refined ternary statement with AND Logical operator instead of OR Logical operator." />
     <MESSAGE value="created function worksheet folder and file structure" />
+    <MESSAGE value="created function assignments folders and file structures" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Expressions_industry/expressions_industry.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="41" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions_industry/exp_industry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="3" selection-start="0" selection-end="66" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_industry/conditionals_industry.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="43" selection-start="93" selection-end="93" vertical-scroll-proportion="0.14184397" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_industry/conditionals_industry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="65" selection-start="3907" selection-end="3907" vertical-scroll-proportion="0.86764705" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_personal/conditionals_personal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="15" selection-start="15" selection-end="15" vertical-scroll-proportion="-0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_personal/conditionals_personal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="103" selection-start="1481" selection-end="1481" vertical-scroll-proportion="1.0402684" />
@@ -745,64 +746,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_wacky/conditionals_wacky.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="40" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="4" column="40" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_wacky/conditionals_wacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="120" column="0" selection-start="5120" selection-end="5120" vertical-scroll-proportion="1.1165919">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
+        <state line="120" column="0" selection-start="5120" selection-end="5120" vertical-scroll-proportion="1.1165919" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions_worksheet/functions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="30" selection-start="91" selection-end="91" vertical-scroll-proportion="0.06726457">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_worksheet/functions_worksheet.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="34" selection-start="84" selection-end="84" vertical-scroll-proportion="0.1421801">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_industry/industry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="42" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_industry/functions_industry.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="30" selection-start="80" selection-end="80" vertical-scroll-proportion="0.1421801">
-          <folding />
-        </state>
+        <state line="2" column="30" selection-start="91" selection-end="91" vertical-scroll-proportion="0.06726457" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions_personal/personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="42" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="2" column="42" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions_personal/functions_personal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="30" selection-start="80" selection-end="80" vertical-scroll-proportion="0.1421801">
-          <folding />
-        </state>
+        <state line="4" column="30" selection-start="80" selection-end="80" vertical-scroll-proportion="0.1421801" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions_wacky/wacky.js">
@@ -814,8 +778,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions_wacky/functions_wacky.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="27" selection-start="77" selection-end="77" vertical-scroll-proportion="0.1421801">
+        <state line="4" column="27" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_worksheet/functions_worksheet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="107" selection-end="107" vertical-scroll-proportion="-4.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions_wacky/exp_wacky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions_personal/exp_personal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions_industry/exp_industry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="3" selection-start="0" selection-end="66" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Screencast &amp; Testing Code/testing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="29" selection-start="79" selection-end="79" vertical-scroll-proportion="-2.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Screencast &amp; Testing Code/testing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="57" selection-start="670" selection-end="670" vertical-scroll-proportion="0.4632353">
+          <folding>
+            <element signature="n#!!doc;n#pastaPieces#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_industry/functions_industry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="116" selection-start="22" selection-end="22" vertical-scroll-proportion="-0.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_industry/industry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="26" selection-start="100" selection-end="100" vertical-scroll-proportion="0.066176474">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
