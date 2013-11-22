@@ -9,6 +9,9 @@ function vehicleMilage(vehicle1, vehicle2, vehicle3){
 //declare and define variable that holds number of vehicles
 var numVehicles = 3;
 
+/*set up variables that uses an expression to calculate formula for
+average miles per gallon*/
 
+var averageMpg = (vehicle1 + vehicle2 + vehicle3)/numVehicles;
 }
 
