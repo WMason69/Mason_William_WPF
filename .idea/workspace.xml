@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions_industry/industry.js" afterPath="$PROJECT_DIR$/Functions_industry/industry.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Mason_William_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385092051840" ignored="false" />
+    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385092758449" ignored="false" />
     <file path="/index.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383643970324" ignored="false" />
     <file path="/script.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383817610695" ignored="false" />
     <file path="/a.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1378979584287" ignored="false" />
@@ -643,7 +642,11 @@
       <created>1385092061860</created>
       <updated>1385092061860</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="define named function with 3 parameters">
+      <created>1385092763940</created>
+      <updated>1385092763940</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers>
       <GitHub shared="false">
         <commitMessageFormat>{id} {summary}</commitMessageFormat>
