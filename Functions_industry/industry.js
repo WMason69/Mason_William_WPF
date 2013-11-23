@@ -19,5 +19,19 @@ var averageMilesGallon = (Number(vehicleA) + Number(vehicleB) + Number(vehicleC)
 				console.log("The average miles per gallon of Vehicles A, B and C is " +
 								averageMilesGallon +	" mpg.");
 
+/*series of if else conditions and console print outs related to evaluated
+conditions*/
+				if(vehicleA >= averageMilesGallon){console.log("Vehicle A meets the " +
+								"minimum required miles per gallon.")
+				}else{console.log("Vehicle A does not meet the	minimum required miles per gallon.");
 
+				}if(vehicleB >= averageMilesGallon){console.log("Vehicle B meets the " +
+								"minimum required miles per gallon.");
+				}else{console.log("Vehicle B does not meet the	minimum required miles per gallon.");
+
+				}if(vehicleC >= averageMilesGallon){console.log("Vehicle C meets the " +
+								"minimum required miles per gallon.")
+				}else{console.log("Vehicle C does not meet the	minimum required miles per gallon.");
+
+				}
 }

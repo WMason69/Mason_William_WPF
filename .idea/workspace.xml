@@ -7,7 +7,7 @@
     </list>
     <ignored path="Mason_William_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385247899004" ignored="false" />
+    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385248277035" ignored="false" />
     <file path="/index.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383643970324" ignored="false" />
     <file path="/script.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383817610695" ignored="false" />
     <file path="/a.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1378979584287" ignored="false" />
@@ -69,7 +69,7 @@
       <file leaf-file-name="testing.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Screencast &amp; Testing Code/testing.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="28" selection-start="831" selection-end="1175" vertical-scroll-proportion="0.0">
+            <state line="44" column="11" selection-start="1181" selection-end="1821" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -80,7 +80,7 @@
       <file leaf-file-name="industry.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions_industry/industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="41" selection-start="396" selection-end="447" vertical-scroll-proportion="0.40358743">
+            <state line="21" column="4" selection-start="864" selection-end="947" vertical-scroll-proportion="0.4618834">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -689,7 +689,11 @@
       <created>1385247906797</created>
       <updated>1385247906797</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="console print out of each vehicles miles per gallon and console print out of all vehicles combined miles per gallon">
+      <created>1385248282589</created>
+      <updated>1385248282589</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers>
       <GitHub shared="false">
         <commitMessageFormat>{id} {summary}</commitMessageFormat>
@@ -774,7 +778,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="sep up variable to hold expression using user input arguments" />
+    <option name="LAST_COMMIT_MESSAGE" value="console print out of each vehicles miles per gallon and console print out of all vehicles combined miles per gallon" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -788,7 +792,6 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="define variables for large and small meal sizes using expressions" />
     <MESSAGE value="conditional statement to declare size of meal" />
     <MESSAGE value="Comment end of Conditionals Personal Assignment" />
     <MESSAGE value="Lay out purpose of program and first comment on structure setup" />
@@ -813,6 +816,7 @@
     <MESSAGE value="Starting fresh to create code for functions industry assignment that calculate average miles per gallon between three vehicles" />
     <MESSAGE value="set up basic function structure and parameters" />
     <MESSAGE value="sep up variable to hold expression using user input arguments" />
+    <MESSAGE value="console print out of each vehicles miles per gallon and console print out of all vehicles combined miles per gallon" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -892,7 +896,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Screencast &amp; Testing Code/testing.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="28" selection-start="831" selection-end="1175" vertical-scroll-proportion="0.0">
+        <state line="44" column="11" selection-start="1181" selection-end="1821" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -901,7 +905,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions_industry/industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="41" selection-start="396" selection-end="447" vertical-scroll-proportion="0.40358743">
+        <state line="21" column="4" selection-start="864" selection-end="947" vertical-scroll-proportion="0.4618834">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
