@@ -3,3 +3,5 @@
 
 /*Code that calculate average miles per gallon between three vehicles*/
 
+//set up basic function structure and parameter
+function avgMpg(vehicleA, vehicleB, vehicleC){
