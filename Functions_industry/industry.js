@@ -36,10 +36,13 @@ conditions*/
 				}else{console.log("Vehicle C does not meet the	minimum required miles per gallon.");
 
 				}
-}
-/*if statement using logical operator to return Boolean values to see if Vehicle A
- gas mileage is the best or less than I thought */
-if(vehicleA > vehicleB && vehicleA > vehicleC){console.log("Vehicle A gets the best gas mileage.");
+				/*if statement using logical operator to return Boolean values to see if Vehicle A
+				 gas mileage is the best or less than I thought */
+				if(vehicleA > vehicleB && vehicleA > vehicleC){console.log("Vehicle A gets the best gas mileage.");
 
-}else{console.log("Vehicle A's gas mileage is not as good as I thought.")
+				}else{console.log("Vehicle A's gas mileage is not as good as I thought.")
+				}
+				return averageMilesGallon; //function spitting the info out
 }
+
+
