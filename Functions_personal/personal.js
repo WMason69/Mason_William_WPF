@@ -10,11 +10,21 @@ function pizzaIngredients(pepporoni,sausage,extraCheese,onions){
 								  " Also known as The Deluxe.");
 				  var normalPizza = "I only want pepperoni and extra cheese. Also known" +
 								  " as The Norm.";
-						var specialPizza = "I'll have sausage, extra cheese and onions. Better" +
+						var specialPizza = "I'll have sausage and extra cheese. Better" +
 										" known as The Special.";
 
+//conditional statements to determine type of pizza ordered
+				if(onions == "no"){console.log("This will not be a deluxe pizza.");
 
-};
+				}else if(sausage == "no"){console.log("This will not be a special or" +
+								" deluxe pizza.");
+
+				}else{console.log("This will be a normal pizza.");
+
+				}
+
+
+								};
 
 //call function and establish arguments using prompts
 pizzaIngredients(
