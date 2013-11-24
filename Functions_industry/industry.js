@@ -45,4 +45,7 @@ conditions*/
 				return averageMilesGallon; //function spitting the info out
 }
 
+console.log(combinedMpg); /*print returned value to console and value
+ can be used later in a different function or expression*/
 
+console.log("---------------end of functions industry---------");

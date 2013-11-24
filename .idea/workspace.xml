@@ -7,7 +7,7 @@
     </list>
     <ignored path="Mason_William_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385330541433" ignored="false" />
+    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385330790613" ignored="false" />
     <file path="/index.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383643970324" ignored="false" />
     <file path="/script.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383817610695" ignored="false" />
     <file path="/a.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1378979584287" ignored="false" />
@@ -70,7 +70,7 @@
       <file leaf-file-name="testing.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Functions_industry/testing.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="36" selection-start="2832" selection-end="2862" vertical-scroll-proportion="0.0">
+            <state line="84" column="47" selection-start="2867" selection-end="3062" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -81,7 +81,7 @@
       <file leaf-file-name="industry.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions_industry/industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="63" selection-start="2230" selection-end="2230" vertical-scroll-proportion="0.7575058">
+            <state line="47" column="41" selection-start="2262" selection-end="2359" vertical-scroll-proportion="0.6882217">
               <folding />
             </state>
           </provider>
@@ -701,7 +701,11 @@
       <created>1385330553285</created>
       <updated>1385330553285</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="function spitting the info out">
+      <created>1385330796307</created>
+      <updated>1385330796308</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers>
       <GitHub shared="false">
         <commitMessageFormat>{id} {summary}</commitMessageFormat>
@@ -786,7 +790,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="if statement using logical operator to return Boolean values to see if Vehicle A gas mileage is the best or less than I thought" />
+    <option name="LAST_COMMIT_MESSAGE" value="function spitting the info out" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -800,7 +804,6 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="Lay out purpose of program and first comment on structure setup" />
     <MESSAGE value="Define and declare variable for Green Elephant #1" />
     <MESSAGE value="this code declares and defines variable about green elephant #2 weight using a prompt" />
     <MESSAGE value="this code declares and defines variable about green elephant #3 weight using a prompt" />
@@ -825,6 +828,7 @@
     <MESSAGE value="console print out of each vehicles miles per gallon and console print out of all vehicles combined miles per gallon" />
     <MESSAGE value="series of if else conditions and console print outs related to evaluated conditions" />
     <MESSAGE value="if statement using logical operator to return Boolean values to see if Vehicle A gas mileage is the best or less than I thought" />
+    <MESSAGE value="function spitting the info out" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -895,6 +899,15 @@
         <state line="4" column="29" selection-start="79" selection-end="79" vertical-scroll-proportion="-2.5" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_industry/testing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="47" selection-start="2867" selection-end="3062" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Functions_industry/functions_industry.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="42" selection-start="104" selection-end="104" vertical-scroll-proportion="-3.75">
@@ -902,18 +915,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_industry/testing.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="36" selection-start="2832" selection-end="2862" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Functions_industry/industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="63" selection-start="2230" selection-end="2230" vertical-scroll-proportion="0.7575058">
+        <state line="47" column="41" selection-start="2262" selection-end="2359" vertical-scroll-proportion="0.6882217">
           <folding />
         </state>
       </provider>
