@@ -8,13 +8,13 @@
     </list>
     <ignored path="Mason_William_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385330880468" ignored="false" />
+    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385332204395" ignored="false" />
     <file path="/index.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383643970324" ignored="false" />
     <file path="/script.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383817610695" ignored="false" />
     <file path="/a.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1378979584287" ignored="false" />
     <file path="/wacky.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384942788976" ignored="false" />
     <file path="/industry.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385331690308" ignored="false" />
-    <file path="/personal.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384942463593" ignored="false" />
+    <file path="/personal.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385332559561" ignored="false" />
     <file path="/expressionsindex.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1381424387491" ignored="false" />
     <file path="/expressionspersonal.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1381424219185" ignored="false" />
     <file path="/index_expressions_wacky.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1381424984505" ignored="false" />
@@ -80,7 +80,7 @@
       <file leaf-file-name="personal.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions_personal/personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="6" selection-start="69" selection-end="134" vertical-scroll-proportion="0.06726457">
+            <state line="5" column="6" selection-start="141" selection-end="177" vertical-scroll-proportion="0.16816144">
               <folding />
             </state>
           </provider>
@@ -708,7 +708,11 @@
       <created>1385330887123</created>
       <updated>1385330887124</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Code that calculates what toppings a person might want on a pizza">
+      <created>1385332228597</created>
+      <updated>1385332228597</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers>
       <GitHub shared="false">
         <commitMessageFormat>{id} {summary}</commitMessageFormat>
@@ -793,7 +797,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="print returned value to console and value can be used later in a different function or expression" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code that calculates what toppings a person might want on a pizza" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -807,7 +811,6 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="this code declares and defines variable about green elephant #2 weight using a prompt" />
     <MESSAGE value="this code declares and defines variable about green elephant #3 weight using a prompt" />
     <MESSAGE value="this code declares and defines variable about green elephant #4 weight using a prompt" />
     <MESSAGE value="this code declares and defines variable about number of hours elephants spend eating gummy bears per day using a prompt" />
@@ -832,6 +835,7 @@
     <MESSAGE value="if statement using logical operator to return Boolean values to see if Vehicle A gas mileage is the best or less than I thought" />
     <MESSAGE value="function spitting the info out" />
     <MESSAGE value="print returned value to console and value can be used later in a different function or expression" />
+    <MESSAGE value="Code that calculates what toppings a person might want on a pizza" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -928,7 +932,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions_personal/personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="6" selection-start="69" selection-end="134" vertical-scroll-proportion="0.06726457">
+        <state line="5" column="6" selection-start="141" selection-end="177" vertical-scroll-proportion="0.16816144">
           <folding />
         </state>
       </provider>

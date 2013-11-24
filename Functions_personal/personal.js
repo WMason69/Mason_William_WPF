@@ -3,3 +3,8 @@
 /* Code that calculates what toppings a person might want on
 a pizza */
 
+//setup function for pizza ingredients
+
+function pizzaIngredients(pepporoni,sausage,extraCheese,onions){
+
+};
