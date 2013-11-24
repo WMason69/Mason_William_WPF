@@ -24,7 +24,7 @@ function pizzaIngredients(pepporoni,sausage,extraCheese,onions){
 				}else{console.log("This will be a normal pizza.");
 
 				}
-
+		        return pizzaType; //spit out value from function
 
 								};
 

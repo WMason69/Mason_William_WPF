@@ -7,13 +7,13 @@
     </list>
     <ignored path="Mason_William_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385336971694" ignored="false" />
+    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385337279503" ignored="false" />
     <file path="/index.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383643970324" ignored="false" />
     <file path="/script.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383817610695" ignored="false" />
     <file path="/a.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1378979584287" ignored="false" />
     <file path="/wacky.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384942788976" ignored="false" />
     <file path="/industry.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385331690308" ignored="false" />
-    <file path="/personal.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385337189998" ignored="false" />
+    <file path="/personal.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385337320194" ignored="false" />
     <file path="/expressionsindex.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1381424387491" ignored="false" />
     <file path="/expressionspersonal.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1381424219185" ignored="false" />
     <file path="/index_expressions_wacky.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1381424984505" ignored="false" />
@@ -79,7 +79,7 @@
       <file leaf-file-name="personal.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions_personal/personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="38" selection-start="174" selection-end="174" vertical-scroll-proportion="0.16816144">
+            <state line="26" column="35" selection-start="998" selection-end="1026" vertical-scroll-proportion="0.8744395">
               <folding />
             </state>
           </provider>
@@ -723,7 +723,11 @@
       <created>1385336983323</created>
       <updated>1385336983323</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="setup return value from function">
+      <created>1385337288038</created>
+      <updated>1385337288038</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers>
       <GitHub shared="false">
         <commitMessageFormat>{id} {summary}</commitMessageFormat>
@@ -808,7 +812,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="conditional statements to determine type of pizza ordered" />
+    <option name="LAST_COMMIT_MESSAGE" value="setup return value from function" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -822,7 +826,6 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="This code alerts the user to the number of gummy bears eaten per hour per 1000 pounds of elephant" />
     <MESSAGE value="Gummy bear consumption coding for green elephant #1" />
     <MESSAGE value="Gummy bear consumption coding for green elephant #2" />
     <MESSAGE value="Gummy bear consumption coding for green elephant #3" />
@@ -847,6 +850,7 @@
     <MESSAGE value="setup function for pizza ingredients" />
     <MESSAGE value="call function and establish arguments using prompts" />
     <MESSAGE value="conditional statements to determine type of pizza ordered" />
+    <MESSAGE value="setup return value from function" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -943,7 +947,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions_personal/personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="38" selection-start="174" selection-end="174" vertical-scroll-proportion="0.16816144">
+        <state line="26" column="35" selection-start="998" selection-end="1026" vertical-scroll-proportion="0.8744395">
           <folding />
         </state>
       </provider>
