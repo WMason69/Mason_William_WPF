@@ -3,6 +3,8 @@
 /* Code that calculates what toppings a person might want on
 a pizza */
 
+// setup return value from function
+var pizzaType = pizzaIngredients();
 //setup function for pizza ingredient parameters
 
 function pizzaIngredients(pepporoni,sausage,extraCheese,onions){
