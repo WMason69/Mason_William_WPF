@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions_wacky/exp_wacky.js" afterPath="$PROJECT_DIR$/Expressions_wacky/exp_wacky.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions_wacky/wacky.js" afterPath="$PROJECT_DIR$/Functions_wacky/wacky.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Mason_William_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385352729876" ignored="false" />
+    <file path="/Dummy.txt" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385352968588" ignored="false" />
     <file path="/index.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383643970324" ignored="false" />
     <file path="/script.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1383817610695" ignored="false" />
     <file path="/a.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1378979584287" ignored="false" />
-    <file path="/wacky.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1384942788976" ignored="false" />
+    <file path="/wacky.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385354970062" ignored="false" />
     <file path="/industry.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385331690308" ignored="false" />
     <file path="/personal.js" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1385352337467" ignored="false" />
     <file path="/expressionsindex.html" changelist="99ee0b2f-5d67-4eca-95fb-cf28766d66b5" time="1381424387491" ignored="false" />
@@ -62,8 +61,19 @@
       <file leaf-file-name="wacky.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions_wacky/wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="62" selection-start="126" selection-end="126" vertical-scroll-proportion="0.06726457">
+            <state line="5" column="46" selection-start="233" selection-end="268" vertical-scroll-proportion="0.16816144">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testing.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Functions_industry/testing.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="10" selection-start="70" selection-end="319" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,7 +81,7 @@
       <file leaf-file-name="functions_wacky.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Functions_wacky/functions_wacky.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="27" selection-start="77" selection-end="77" vertical-scroll-proportion="-2.5">
+            <state line="1" column="117" selection-start="22" selection-end="22" vertical-scroll-proportion="-0.625">
               <folding />
             </state>
           </provider>
@@ -745,7 +755,11 @@
       <created>1385352733012</created>
       <updated>1385352733012</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="Code to calculate a wacky solution using an anonymous prompt">
+      <created>1385352973938</created>
+      <updated>1385352973938</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers>
       <GitHub shared="false">
         <commitMessageFormat>{id} {summary}</commitMessageFormat>
@@ -904,11 +918,6 @@
         <state line="0" column="3" selection-start="0" selection-end="66" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_industry/testing.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="617" selection-end="617" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Functions_industry/functions_industry.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="42" selection-start="104" selection-end="104" vertical-scroll-proportion="-3.75" />
@@ -958,16 +967,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_industry/testing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="10" selection-start="70" selection-end="319" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Functions_wacky/functions_wacky.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="27" selection-start="77" selection-end="77" vertical-scroll-proportion="-2.5">
+        <state line="1" column="117" selection-start="22" selection-end="22" vertical-scroll-proportion="-0.625">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions_wacky/wacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="62" selection-start="126" selection-end="126" vertical-scroll-proportion="0.06726457">
+        <state line="5" column="46" selection-start="233" selection-end="268" vertical-scroll-proportion="0.16816144">
           <folding />
         </state>
       </provider>
