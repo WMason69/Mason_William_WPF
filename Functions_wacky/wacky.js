@@ -4,12 +4,24 @@
 
 var pastaPieces = function(noodles,meatballs, breadSlices){
 				var totalMeal = (noodles * meatballs); //expression for returning function
+				var avgNoodlePortion = "Please enter the noodle portion size.";
 				console.log("The total number of meatballs multiplied by the number" +
-								" of noodles is " + totalMeal + "."+ "There are also " + breadSlices + " slices of bread.");
+								" of noodles is " + totalMeal + "."+ " There are also " + breadSlices + " slices of bread.");
+
+
 
 				console.log(totalMeal);//print out to console
+
+				//ternary statement checking balance of meal
+				(noodles/Number(avgNoodlePortion) >= meatballs && meatballs == breadSlices) ? console.log("This is an equally portioned meal.") :
+								console.log("This meal could have been more balanced.");
+
 				return totalMeal; //spitting out function
+
 };
-pastaPieces(7,7,7); //function argument
+pastaPieces(//function argument with user input parameters
+										prompt("Please enter the number of noodles used."),
+          prompt("Please enter the number of meatballs going with noodles."),
+										prompt("Please enter the number of bread slices."));
 
 
