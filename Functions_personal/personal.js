@@ -3,35 +3,49 @@
 /* Code that calculates what toppings a person might want on
 a pizza */
 
-// setup return value from function
-var pizzaType = pizzaIngredients();
-//setup function for pizza ingredient parameters
-
-function pizzaIngredients(pepporoni,sausage,extraCheese,onions){
-				  var deluxePizza = ("I would like pepperoni, sausage, extra cheese and onions." +
-								  " Also known as The Deluxe.");
-				  var normalPizza = "I only want pepperoni and extra cheese. Also known" +
-								  " as The Norm.";
-						var specialPizza = "I'll have sausage and extra cheese. Better" +
-										" known as The Special.";
-
-//conditional statements to determine type of pizza ordered
-				if(onions == "no"){console.log("This will not be a deluxe pizza.");
-
-				}else if(sausage == "no"){console.log("This will not be a special or" +
-								" deluxe pizza.");
-
-				}else{console.log("This will be a normal pizza.");
-
-				}
-		        return pizzaType; //spit out value from function
-
-								};
-
 //call function and establish arguments using prompts
 pizzaIngredients(
 				prompt("Please enter either Yes or No if you want pepperoni on your pizza."),
 				prompt("Please enter either Yes or No if you want sausage on your pizza."),
-				prompt("Please enter either Yes or No if you want extra cheese on your pizza."),
+				prompt("Please enter either Yes or No if you want cheese on your pizza."),
 				prompt("Please enter either Yes or No if you want onions on your pizza.")
-)
+);
+
+// setup return value from function
+
+//setup function for pizza ingredient parameters
+var pizzaType = pizzaIngredients(); //set up return for print use in global page or another function
+function pizzaIngredients(pepperoni,sausage,cheese,onions){
+				  var sausagePizza = ("I would like a sausage pizza." +
+								  " Also known as The Locomotive.");
+				  var cheesePizza = "I only want a cheese pizza. Also known" +
+								  " as The Norm.";
+						var pepperoniPizza = "I'll have a pepperoni pizza. Better" +
+										" known as The Bullet.";
+						var unusualPizza = "I know it's unusual but I only want crust and sauce.";
+
+						var meatPizza = "I want a pizza with the all the toppings. Also known as" +
+										" The Deluxe.";
+
+//conditional statements to determine type of pizza ordered
+				if(pepperoni == "yes"){console.log(pepperoniPizza);
+
+				}else if(sausage == "yes"){console.log(sausagePizza);
+
+				}else if(cheese == "yes"){console.log(cheesePizza);
+
+				}else if(onions == "yes"){console.log(meatPizza);
+
+				}else{console.log(unusualPizza);
+
+				}
+
+				return pizzaType; //spit out value from function
+
+
+}
+console.log(pizzaType); //use returned value in other functions or expressions
+
+
+
+
