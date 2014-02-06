@@ -3,9 +3,9 @@
 //Code to calculate a wacky solution using an anonymous function
 
 var pastaPieces = function(noodles,meatballs, breadSlices){
-				var totalMeal = (noodles * meatballs); //expression for returning function
+				var totalMeal = (noodles / meatballs); //expression for returning function
 				var avgNoodlePortion = "Please enter the noodle portion size.";
-				console.log("The total number of meatballs multiplied by the number" +
+				console.log("The total number of meatballs divided by the number" +
 								" of noodles is " + totalMeal + "."+ " There are also " + breadSlices + " slices of bread.");
 
 
@@ -19,6 +19,7 @@ var pastaPieces = function(noodles,meatballs, breadSlices){
 				return totalMeal; //spitting out function
 
 };
+
 pastaPieces(//function argument with user input parameters
 										prompt("Please enter the number of noodles used."),
           prompt("Please enter the number of meatballs going with noodles."),
